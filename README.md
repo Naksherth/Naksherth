@@ -7,10 +7,11 @@
 
 ## 💻 About Me
 
-I am proficient in programming languages including **Java**, **C#**, **C++**, **PHP**, **Python**,**Pascal**, and **R**, with expertise in **MySQL databases**, **Firebase** and **web design**.  
+I am proficient in programming languages including Java, C#, C++, PHP, Python, Pascal, and R, with expertise in MySQL databases, Firebase, web design, and data analysis.
 
-Creative in problem-solving and solution design, I excel in both independent and team-based environments. My strong communication and interpersonal skills ensure effective collaboration and project success.
+Passionate about Data Science, I am currently pursuing a Top-Up Degree in Data Science, building skills in data analytics, Python programming, and AI-enhanced solutions. My experience includes applying programming and analytical skills to solve real-world problems, both independently and in collaborative environments.
 
+Creative in problem-solving and solution design, I excel in translating data insights into actionable results. Strong communication and interpersonal skills ensure effective teamwork and successful project outcomes.
 ---
 
 ## 🌱 Currently Learning
@@ -19,8 +20,13 @@ Creative in problem-solving and solution design, I excel in both independent and
 - TypeScript  
 - React.js  
 - Git & GitHub
-
+- Python for Data Science
+- Pandas & NumPy
+- Data Visualization (Matplotlib, Seaborn)
+- Machine Learning
+- 
 ---
+
 
 ## 📫 Let's Connect
 
